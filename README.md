@@ -1,5 +1,9 @@
 # Prediccion del precio de las acciones de NVIDIA
 En este proyecto realizaré un modelado predictivo del mercado de valores, y análisis de series temporales.
+- Hare un analisis exploratorio de los datos, asi como un preprocesamiento de los datos 
+- Utilizare modelos de Regresión y hare una comparación para escoger el mejor modelo 
+- Finalmente comunicare mis resultados obtenidos 
+
 # Introducción
 Para este proyecto utilizaré los datos diarios del precio de las acciones de Nvidia desde el 2 de enero del 2004 hasta el 1 de enero del 2024.
 # Descripción de los datos
