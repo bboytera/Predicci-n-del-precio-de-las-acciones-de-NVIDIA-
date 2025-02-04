@@ -7,7 +7,7 @@ En este proyecto realizaré un modelado predictivo del mercado de valores, y an�
 # Introducción
 Para este proyecto utilizaré los datos diarios del precio de las acciones de Nvidia desde el 2 de enero del 2004 hasta el 1 de enero del 2024.
 # Descripción de los datos
-El conjunto de datos contiene datos financieros cruciales para las acciones de Nvidia, incluidos los precios de apertura, máximos, mínimos y de cierre, así como el volumen de operaciones de cada día en el período de 20 años. 
+El conjunto de datos contiene datos financieros cruciales para las acciones de Nvidia, incluidos los precios de apertura, máximos, mínimos y de cierre, así como el volumen de operaciones de cada día en el período de 20 años. los datos se encuentran en `precios_de_acciones_de_nvidia.csv`
 - `Date` La fecha del registro del precio de la acción.
 - `Open` El precio de la acción al comienzo del día de negociación.
 - `High`  El precio más alto que la acción de Nvidia alcanzó durante el día.
