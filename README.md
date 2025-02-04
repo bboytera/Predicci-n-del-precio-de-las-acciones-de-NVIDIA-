@@ -17,7 +17,7 @@ El conjunto de datos contiene datos financieros cruciales para las acciones de N
 - `numpy`
 - `scikit-learn`
 # Conclusión general
-En nuestro informe de resultados realizamos una validación cruzada para verificar si existia sobreajuste y obtuvimos buenos resultados en la misma sin existencia de ella.
+En nuestro informe de resultados realizamos una **validación cruzada** para verificar si existÍa sobreajuste y obtuvimos buenos resultados en la misma sin existencia de ella.
 
 - Comparamos dos modelos **Linear Regressor** y **Random Forest**.
 - Nuestro mejor modelo fue **Linear Regressor** con un coeficiente de determinación (R²) de 0.7558, lo que indica que explica aproximadamente el 75.58% de la variabilidad en los datos.
