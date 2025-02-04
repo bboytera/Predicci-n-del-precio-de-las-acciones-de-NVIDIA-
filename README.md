@@ -17,9 +17,10 @@ El conjunto de datos contiene datos financieros cruciales para las acciones de N
 - `numpy`
 - `scikit-learn`
 # Conclusión general
-en nuestro informe de resultados realizamos una validación cruzada para verificar si existia sobreajuste y obtuvimos buenos resultados en la misma sin existencia de ella.
-Comparamos dos modelos ** Linear Regressor** y ** Random Forest**.
-Nuestro mejor modelo fue ** Linear Regressor** con un coeficiente de determinación (R²) de 0.7558, lo que indica que explica aproximadamente el 75.58% de la variabilidad en los datos.
-Este resultado sugiere que tiene un buen rendimiento general y es capaz de capturar la mayoría de las tendencias en los datos. 
-Además los indicadores de validación sugieren que el modelo está evitando el sobreajuste.
-Este modelo es  una buena opción para esta tarea de predicción!!.
+En nuestro informe de resultados realizamos una validación cruzada para verificar si existia sobreajuste y obtuvimos buenos resultados en la misma sin existencia de ella.
+
+- Comparamos dos modelos **Linear Regressor** y **Random Forest**.
+- Nuestro mejor modelo fue **Linear Regressor** con un coeficiente de determinación (R²) de 0.7558, lo que indica que explica aproximadamente el 75.58% de la variabilidad en los datos.
+- Este resultado sugiere que tiene un buen rendimiento general y es capaz de capturar la mayoría de las tendencias en los datos. 
+- Además los indicadores de validación sugieren que el modelo está evitando el sobreajuste.
+- Este modelo es  una buena opción para esta tarea de predicción!!.
